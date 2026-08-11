@@ -1,0 +1,6 @@
+interface:
+  display_name: "Adaptive STEM Tutor"
+  short_description: "Learn STEM deeply from your own course materials"
+  default_prompt: "Use $adaptive-stem-tutor to teach me from my course materials toward independent problem solving."
+policy:
+  allow_implicit_invocation: false
